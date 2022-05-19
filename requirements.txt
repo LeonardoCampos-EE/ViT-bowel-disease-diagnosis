@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pandas
+tqdm
+tensorflow==2.5.0
+scikit-learn
+ray
+ray[tune]
